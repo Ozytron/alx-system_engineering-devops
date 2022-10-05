@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lampk\n
+ls -amp | sort -d
